@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search">Szukaj</string>
+    <string name="app_name">NewsApp</string>
+    <string name="select_category">"Wybierz katogorie"</string>
+    <string name="get_localization_button">Pobierz lokalizacje</string>
+    <string name="sidebar_open">Otwórz sidebar</string>
+    <string name="api_key">6f170bf44a154b72b19727b63f239d7a</string>
+    <string name="hello_blank_fragment">Czesc blank fragment</string>
+    <string name="sidebar_close">Zamknij sidebar</string>
+    <string name="google_text">Google</string>
+    <string name="youtube_text">Youtube</string>
+    <string name="gmail_text">Gmail</string>
+    <string name="log_in">Zaloguj</string>
+    <string name="log_in_user">Zaloguj</string>
+    <string name="enter_user_id">Wprowadź IDUżytkownika</string>
+    <string name="enter_pass">Wprowadź Hasło</string>
+    <string name="enter_name">Wprowadź Imie</string>
+    <string name="submit">Zatwierdź</string>
+    <string name="add">Dodaj</string>
+    <string name="dont_acc">Nie masz konta? Kliknij przycisk poniżej, aby się zarejestrować!</string>
+    <string name="create_acc">Stwórz konto</string>
+    <string name="register_user">Zarejestruj Użytkownika</string>
+    <string name="confirm_pass">Potwierdź hasło</string>
+    <string name="register">Zarejestruj</string>
+    <string name="i_already_have">Mam już konto</string>
+    <string name="sample">Sample</string>
+    <string name="shake_message">Ekran został potrząśnięty</string>
+    <string name="input">Wypełnij wszystkie pola</string>
+    <string name="credentials">Złe dane</string>
+    <string name="registered">Zarejestrowany</string>
+
+
+
+</resources>
